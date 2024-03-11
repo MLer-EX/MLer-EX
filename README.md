@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on dishdash
 - 📫 How to reach me shabanimehran@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: github!!!!
 
 <!---
 MLer-EX/MLer-EX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
