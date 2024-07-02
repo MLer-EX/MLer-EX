@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @MLer-EX
+- 👋 Hi, I’m Dr.hossein shabani
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on dishdash
+- 💞️ I’m looking to collaborate on medogram
 - 📫 How to reach me shabanimehran@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: github!!!!
+- ⚡ Fun fact: code!!!
 
 <!---
 MLer-EX/MLer-EX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
